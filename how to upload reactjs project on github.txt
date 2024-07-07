@@ -1,0 +1,13 @@
+git config --global user.name Hussain-Saabri
+
+git config --global user.email "dadapir19ce300@gmail.com"
+
+.gitignore
+
+git init
+git add .
+git commit -m "react timer app"
+
+git remote add origin https://github.com/Hussain-Saabri/test.git
+git branch -M main
+git push -u origin main 
