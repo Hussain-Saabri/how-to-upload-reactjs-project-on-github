@@ -7,6 +7,7 @@ git config --global user.email "dadapir19ce300@gmail.com"
 git init
 git add .
 git commit -m "react timer app"
+once commit create an repository name in github
 
 git remote add origin https://github.com/Hussain-Saabri/test.git
 git branch -M main
