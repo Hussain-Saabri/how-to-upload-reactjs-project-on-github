@@ -2,7 +2,7 @@ git config --global user.name Hussain-Saabri
 
 git config --global user.email "dadapir19ce300@gmail.com"
 
-.gitignore
+touch .gitignore
 
 git init
 git add .
