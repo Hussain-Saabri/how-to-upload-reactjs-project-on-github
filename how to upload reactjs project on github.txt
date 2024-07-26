@@ -1,6 +1,6 @@
 git config --global user.name Hussain-Saabri
 
-git config --global user.email "dadapir19ce300@gmail.com"
+git config --global user.email "dadapir19ce30@gmail.com"
 
 touch .gitignore
 
